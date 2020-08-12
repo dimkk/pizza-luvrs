@@ -1,6 +1,6 @@
 {
 	"name": "Filthy Rich",
 	"toppings": ["money"],
-	"img": "/assets/pizzas/filthy-rich.png",
+	"img": "//dimkkspizzabucket.s3.eu-central-1.amazonaws.com/pizzas/filthy-rich.png",
 	"username": "kathy"
 }
